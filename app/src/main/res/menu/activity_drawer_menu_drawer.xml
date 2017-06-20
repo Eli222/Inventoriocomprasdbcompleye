@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/crear"
+            android:icon="@drawable/ic_crear"
+            android:title="Crear Producto"
+            app:showAsAction="withText" />
+        <item
+            android:id="@+id/entradas"
+            android:icon="@drawable/ic_entrada"
+            android:title="Entradas" />
+        <item
+            android:id="@+id/salidas"
+            android:icon="@drawable/ic_salidas"
+            android:title="Salidas" />
+        <item
+            android:id="@+id/alertas"
+            android:icon="@drawable/ic_alertas"
+            android:title="Alertas" />
+        <item
+            android:id="@+id/informes"
+            android:icon="@drawable/ic_informes"
+            android:title="Informes" />
+        <item
+            android:id="@+id/configuracion"
+            android:icon="@drawable/ic_configuracion"
+            android:title="Configuracion" />
+        <item
+            android:id="@+id/usuarios"
+            android:icon="@drawable/ic_usuarios"
+            android:title="Usuarios" />
+    </group>
+
+</menu>

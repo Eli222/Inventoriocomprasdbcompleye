@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="codigohernancho.app.prueba.com.inicio.INICIO">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion2"
+        android:orderInCategory="100"
+        android:title="@string/op2"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion3"
+        android:orderInCategory="100"
+        android:title="@string/op3"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion4"
+        android:orderInCategory="100"
+        android:title="@string/op4"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion5"
+        android:orderInCategory="100"
+        android:title="@string/op5"
+        app:showAsAction="never" />
+
+</menu>
